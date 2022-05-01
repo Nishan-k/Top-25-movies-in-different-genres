@@ -1,0 +1,332 @@
+Movie,Release Date,Theatrical Distributor,MPAA(Motion Picure)Rating,Total Gross,Inflation-Adjusted Gross,Genre
+Star Wars Ep. VII: The Force Awa…,18-Dec-15,Walt Disney,PG-13,"$936,662,225.00","$1,013,504,282 ",Adventure
+Star Wars Ep. I: The Phantom Menace,19-May-99,20th Century Fox,PG,"$474,544,677.00","$828,160,499 ",Adventure
+Shrek 2,19-May-04,Dreamworks SKG,PG,"$441,226,247.00","$651,536,982 ",Adventure
+Spider-Man,3-May-02,Sony Pictures,PG-13,"$403,706,375.00","$637,175,121 ",Adventure
+Independence Day,2-Jul-96,20th Century Fox,PG-13,"$306,169,255.00","$635,197,299 ",Adventure
+Star Wars Ep. VIII: The Last Jedi,15-Dec-17,Walt Disney,PG-13,"$620,181,382.00","$632,391,682 ",Adventure
+Incredibles 2,15-Jun-18,Walt Disney,PG,"$608,581,744.00","$612,589,966 ",Adventure
+Pirates of the Caribbean: Dead M…,7-Jul-06,Walt Disney,PG-13,"$423,315,812.00","$592,642,135 ",Adventure
+The Lord of the Rings: The Retur…,17-Dec-03,New Line,PG-13,"$377,845,905.00","$570,485,874 ",Adventure
+Finding Nemo,30-May-03,Walt Disney,G,"$380,529,370.00","$563,632,537 ",Adventure
+Rogue One: A Star Wars Story,16-Dec-16,Walt Disney,PG-13,"$532,177,324.00","$560,115,668 ",Adventure
+Spider-Man 2,30-Jun-04,Sony Pictures,PG-13,"$373,524,485.00","$551,565,138 ",Adventure
+The Lion King,19-Jul-19,Walt Disney,PG,"$543,638,043.00","$544,231,531 ",Adventure
+Star Wars Ep. III: Revenge of th…,19-May-05,20th Century Fox,PG-13,"$380,270,577.00","$544,006,417 ",Adventure
+The Lord of the Rings: The Two T…,18-Dec-02,New Line,PG-13,"$342,548,984.00","$535,750,024 ",Adventure
+Star Wars: The Rise of Skywalker,20-Dec-19,Walt Disney,PG-13,"$515,202,542.00","$515,629,072 ",Adventure
+Finding Dory,17-Jun-16,Walt Disney,PG,"$486,295,561.00","$515,529,514 ",Adventure
+Harry Potter and the Sorcererâs …,16-Nov-01,Warner Bros.,PG,"$317,871,467.00","$513,799,034 ",Adventure
+The Lord of the Rings: The Fello…,19-Dec-01,New Line,PG-13,"$315,544,750.00","$506,312,233 ",Adventure
+Men in Black,1-Jul-97,Sony Pictures,PG-13,"$250,690,539.00","$500,833,177 ",Adventure
+Star Wars Ep. II: Attack of the …,16-May-02,20th Century Fox,PG,"$310,676,740.00","$490,345,209 ",Adventure
+Toy Story 3,18-Jun-10,Walt Disney,G,"$415,004,880.00","$482,331,399 ",Adventure
+The Hunger Games: Catching Fire,22-Nov-13,Lionsgate,PG-13,"$424,668,047.00","$478,895,318 ",Adventure
+Frozen II,22-Nov-19,Walt Disney,PG,"$477,373,578.00","$477,865,316 ",Adventure
+Pirates of the Caribbean: The Cu…,9-Jul-03,Walt Disney,PG-13,"$305,410,819.00","$464,447,295 ",Adventure
+Avatar,18-Dec-09,20th Century Fox,PG-13,"$760,507,625.00","$905,165,702 ",Action
+Avengers: Endgame,26-Apr-19,Walt Disney,PG-13,"$858,373,000.00","$859,310,090 ",Action
+Spider-Man: No Way Home,17-Dec-21,Sony Pictures,PG-13,"$804,405,733.00","$804,405,733 ",Action
+The Avengers,4-May-12,Walt Disney,PG-13,"$623,357,910.00","$718,114,575 ",Action
+Jurassic World,12-Jun-15,Universal,PG-13,"$652,306,625.00","$709,564,064 ",Action
+Black Panther,16-Feb-18,Walt Disney,PG-13,"$700,059,566.00","$704,670,273 ",Action
+Avengers: Infinity War,27-Apr-18,Walt Disney,PG-13,"$678,815,482.00","$683,286,273 ",Action
+The Dark Knight,18-Jul-08,Warner Bros.,PG-13,"$533,720,947.00","$681,038,991 ",Action
+The Dark Knight Rises,20-Jul-12,Warner Bros.,PG-13,"$448,139,099.00","$516,260,739 ",Action
+Twister,10-May-96,Warner Bros.,PG-13,"$241,688,385.00","$501,421,377 ",Action
+Avengers: Age of Ultron,1-May-15,Walt Disney,PG-13,"$459,005,868.00","$499,298,192 ",Action
+Transformers: Revenge of the Fallen,24-Jun-09,Paramount Pictures,PG-13,"$402,111,870.00","$491,648,780 ",Action
+Iron Man 3,3-May-13,Walt Disney,PG-13,"$408,992,272.00","$461,311,082 ",Action
+The Lost World: Jurassic Park,22-May-97,Universal,PG-13,"$229,086,679.00","$457,674,251 ",Action
+Captain America: Civil War,6-May-16,Walt Disney,PG-13,"$408,084,349.00","$432,616,584 ",Action
+The Matrix Reloaded,15-May-03,Warner Bros.,R,"$281,553,689.00","$428,167,052 ",Action
+Captain Marvel,8-Mar-19,Walt Disney,PG-13,"$426,829,839.00","$427,295,810 ",Action
+Transformers,2-Jul-07,Paramount Pictures,PG-13,"$319,246,193.00","$425,506,909 ",Action
+Wonder Woman,2-Jun-17,Warner Bros.,PG-13,"$412,563,408.00","$421,762,146 ",Action
+Jurassic World: Fallen Kingdom,22-Jun-18,Universal,PG-13,"$417,719,760.00","$420,470,937 ",Action
+Transformers: Dark of the Moon,29-Jun-11,Paramount Pictures,PG-13,"$352,390,543.00","$407,493,223 ",Action
+Guardians of the Galaxy Vol 2,5-May-17,Walt Disney,PG-13,"$389,813,101.00","$398,504,578 ",Action
+Spider-Man: Far From Home,2-Jul-19,Sony Pictures,PG-13,"$390,532,085.00","$390,958,429 ",Action
+Batman Forever,16-Jun-95,Warner Bros.,PG-13,"$184,031,112.00","$387,946,038 ",Action
+Deadpool,12-Feb-16,20th Century Fox,R,"$363,070,709.00","$384,896,922 ",Action
+Titanic,19-Dec-97,Paramount Pictures,PG-13,"$659,363,944.00","$1,248,772,370 ",Drama
+The Passion of the Christ,25-Feb-04,Newmarket Films,R,"$370,782,930.00","$547,493,401 ",Drama
+Saving Private Ryan,24-Jul-98,Dreamworks SKG,R,"$216,335,085.00","$419,118,848 ",Drama
+American Sniper,25-Dec-14,Warner Bros.,R,"$350,126,372.00","$380,938,233 ",Drama
+Apollo 13,30-Jun-95,Universal,PG,"$173,772,767.00","$365,379,356 ",Drama
+The Twilight Saga: New Moon,20-Nov-09,Summit Entertainment,PG-13,"$296,623,634.00","$362,147,912 ",Drama
+The Twilight Saga: Eclipse,30-Jun-10,Summit Entertainment,PG-13,"$300,531,751.00","$349,287,217 ",Drama
+The Twilight Saga: Breaking Dawn…,16-Nov-12,Lionsgate,PG-13,"$292,324,737.00","$336,684,143 ",Drama
+The Twilight Saga: Breaking Dawn…,18-Nov-11,Summit Entertainment,PG-13,"$281,287,133.00","$325,246,411 ",Drama
+The Perfect Storm,30-Jun-00,Warner Bros.,PG-13,"$182,618,434.00","$310,688,504 ",Drama
+The Blind Side,20-Nov-09,Warner Bros.,PG-13,"$255,959,475.00","$310,083,412 ",Drama
+A Beautiful Mind,21-Dec-01,Universal,PG-13,"$170,708,996.00","$271,012,491 ",Drama
+Good Will Hunting,5-Dec-97,Miramax,R,"$138,433,435.00","$270,992,289 ",Drama
+Catch Me if You Can,25-Dec-02,Dreamworks SKG,PG-13,"$164,606,800.00","$255,933,242 ",Drama
+The Truman Show,5-Jun-98,Paramount Pictures,PG,"$125,618,201.00","$245,611,701 ",Drama
+Twilight,21-Nov-08,Summit Entertainment,PG-13,"$192,769,854.00","$245,334,162 ",Drama
+The Green Mile,10-Dec-99,Warner Bros.,R,"$136,801,374.00","$240,701,074 ",Drama
+American Beauty,15-Sep-99,Dreamworks SKG,R,"$130,058,047.00","$228,640,598 ",Drama
+A Time to Kill,24-Jul-96,Warner Bros.,R,"$108,766,007.00","$225,652,545 ",Drama
+The Pursuit of Happyness,15-Dec-06,Sony Pictures,PG-13,"$162,586,036.00","$223,311,059 ",Drama
+Youâve Got Mail,18-Dec-98,Warner Bros.,PG,"$115,821,495.00","$220,784,063 ",Drama
+Cinderella,13-Mar-15,Walt Disney,PG,"$201,151,353.00","$218,808,763 ",Drama
+Bohemian Rhapsody,2-Nov-18,20th Century Fox,PG-13,"$216,303,339.00","$217,582,395 ",Drama
+Phenomenon,5-Jul-96,Walt Disney,PG,"$104,636,382.00","$217,077,504 ",Drama
+A Star is Born,5-Oct-18,Warner Bros.,R,"$215,288,866.00","$216,629,155 ",Drama
+Meet the Fockers,22-Dec-04,Universal,PG-13,"$279,167,575.00","$406,855,908 ",Comedy
+Austin Powers: The Spy Who Shagg…,10-Jun-99,New Line,PG-13,"$206,040,085.00","$371,926,681 ",Comedy
+Bruce Almighty,23-May-03,Universal,PG-13,"$242,704,995.00","$369,088,685 ",Comedy
+Liar Liar,21-Mar-97,Universal,PG-13,"$181,410,615.00","$362,425,993 ",Comedy
+The Hangover,5-Jun-09,Warner Bros.,R,"$277,322,503.00","$339,072,983 ",Comedy
+Austin Powers in Goldmember,25-Jul-02,New Line,PG-13,"$213,117,789.00","$336,366,622 ",Comedy
+The Waterboy,6-Nov-98,Walt Disney,PG-13,"$161,491,646.00","$314,033,702 ",Comedy
+Wedding Crashers,15-Jul-05,New Line,R,"$209,218,368.00","$299,303,023 ",Comedy
+Big Daddy,25-Jun-99,Sony Pictures,PG-13,"$163,479,795.00","$295,100,339 ",Comedy
+The Hangover Part II,26-May-11,Warner Bros.,R,"$254,464,305.00","$294,254,434 ",Comedy
+Meet the Parents,6-Oct-00,Universal,PG-13,"$166,225,040.00","$282,400,796 ",Comedy
+The Nutty Professor,28-Jun-96,Universal,PG-13,"$128,814,019.00","$267,245,372 ",Comedy
+Scary Movie,7-Jul-00,Miramax/Dimension,R,"$157,019,771.00","$267,137,524 ",Comedy
+Elf,7-Nov-03,New Line,PG,"$175,531,840.00","$264,484,386 ",Comedy
+The Birdcage,8-Mar-96,MGM,R,"$124,060,553.00","$257,383,542 ",Comedy
+Patch Adams,25-Dec-98,Universal,PG-13,"$135,014,968.00","$253,549,134 ",Comedy
+My Best Friend's Wedding,20-Jun-97,Sony Pictures,PG,"$126,813,153.00","$253,348,439 ",Comedy
+Ted,29-Jun-12,Universal,R,"$218,665,740.00","$251,905,127 ",Comedy
+American Pie 2,10-Aug-01,Universal,R,"$145,096,820.00","$235,077,352 ",Comedy
+Ace Ventura: When Nature Calls,10-Nov-95,Warner Bros.,PG-13,"$108,360,063.00","$228,294,825 ",Comedy
+The Longest Yard,27-May-05,Paramount Pictures,PG-13,"$158,119,460.00","$226,202,094 ",Comedy
+Wild Hogs,2-Mar-07,Walt Disney,PG-13,"$168,213,584.00","$224,203,272 ",Comedy
+The First Wives Club,20-Sep-96,Paramount Pictures,PG,"$105,489,203.00","$218,791,340 ",Comedy
+22 Jump Street,13-Jun-14,Sony Pictures,R,"$191,719,337.00","$215,185,595 ",Comedy
+Casper,26-May-95,Universal,PG,"$100,328,194.00","$211,496,440 ",Comedy
+The Sixth Sense,6-Aug-99,Walt Disney,PG-13,"$293,506,292.00","$528,036,147 ",Thriller
+The Hunger Games,23-Mar-12,Lionsgate,PG-13,"$408,010,692.00","$470,032,412 ",Thriller
+The Hunger Games: Mockingjay - P…,21-Nov-14,Lionsgate,PG-13,"$337,135,885.00","$377,937,066 ",Thriller
+Signs,2-Aug-02,Walt Disney,PG-13,"$227,969,295.00","$359,794,322 ",Thriller
+Inception,16-Jul-10,Warner Bros.,PG-13,"$292,576,195.00","$340,040,986 ",Thriller
+Joker,4-Oct-19,Warner Bros.,R,"$335,451,311.00","$335,815,689 ",Thriller
+Gravity,4-Oct-13,Warner Bros.,PG-13,"$274,092,705.00","$309,052,980 ",Thriller
+The Hunger Games: Mockingjay - P…,20-Nov-15,Lionsgate,PG-13,"$281,723,902.00","$306,245,538 ",Thriller
+The Da Vinci Code,19-May-06,Sony Pictures,PG-13,"$217,536,138.00","$304,550,592 ",Thriller
+The Bourne Ultimatum,3-Aug-07,Universal,PG-13,"$227,471,070.00","$303,184,546 ",Thriller
+Ocean's Eleven,7-Dec-01,Warner Bros.,PG-13,"$183,417,150.00","$295,846,217 ",Thriller
+What Lies Beneath,21-Jul-00,Dreamworks SKG,PG-13,"$155,464,351.00","$264,491,291 ",Thriller
+The Bourne Supremacy,23-Jul-04,Universal,PG-13,"$176,087,450.00","$260,019,623 ",Thriller
+The Martian,2-Oct-15,20th Century Fox,PG-13,"$228,433,663.00","$248,400,527 ",Thriller
+Se7en,22-Sep-95,New Line,R,"$100,125,643.00","$210,635,047 ",Thriller
+The Bourne Identity,14-Jun-02,Universal,PG-13,"$121,468,960.00","$191,716,062 ",Thriller
+Gone Girl,3-Oct-14,20th Century Fox,R,"$167,767,189.00","$188,247,390 ",Thriller
+Taken,30-Jan-09,20th Century Fox,PG-13,"$145,000,989.00","$177,287,874 ",Thriller
+Us,22-Mar-19,Universal,R,"$175,084,580.00","$175,275,719 ",Thriller
+The Village,30-Jul-04,Walt Disney,PG-13,"$114,197,520.00","$168,629,826 ",Thriller
+Angels & Demons,15-May-09,Sony Pictures,PG-13,"$133,375,846.00","$163,074,200 ",Thriller
+Vanilla Sky,14-Dec-01,Paramount Pictures,R,"$100,614,858.00","$162,193,183 ",Thriller
+Unbreakable,22-Nov-00,Walt Disney,PG-13,"$94,999,143.00","$161,218,935 ",Thriller
+Taken 2,5-Oct-12,20th Century Fox,PG-13,"$139,854,287.00","$161,099,816 ",Thriller
+1917,25-Dec-19,Universal,R,"$159,227,644.00","$159,229,081 ",Thriller
+I am Legend,14-Dec-07,Warner Bros.,PG-13,"$256,393,010.00","$338,933,956 ",Horror
+It,8-Sep-17,Warner Bros.,R,"$328,828,874.00","$334,783,459 ",Horror
+Hannibal,9-Feb-01,MGM,R,"$165,092,266.00","$267,472,797 ",Horror
+The Blair Witch Project,14-Jul-99,Artisan,R,"$140,539,099.00","$253,689,664 ",Horror
+It: Chapter Two,6-Sep-19,Warner Bros.,R,"$211,593,228.00","$211,824,221 ",Horror
+Scream,20-Dec-96,Miramax,R,"$103,046,663.00","$208,875,525 ",Horror
+The Ring,18-Oct-02,Dreamworks SKG,PG-13,"$129,094,024.00","$203,643,481 ",Horror
+Scream 2,12-Dec-97,Miramax,R,"$101,363,301.00","$201,830,911 ",Horror
+A Quiet Place,6-Apr-18,Paramount Pictures,PG-13,"$188,024,361.00","$189,262,720 ",Horror
+Sleepy Hollow,19-Nov-99,Paramount Pictures,R,"$101,068,340.00","$181,585,991 ",Horror
+Get Out,24-Feb-17,Universal,R,"$175,837,935.00","$179,752,944 ",Horror
+The Haunting,23-Jul-99,Dreamworks SKG,PG-13,"$91,188,905.00","$164,606,736 ",Horror
+The Grudge,22-Oct-04,Sony Pictures,PG-13,"$110,359,362.00","$162,962,207 ",Horror
+Halloween,19-Oct-18,Universal,R,"$159,366,015.00","$160,409,948 ",Horror
+A Quiet Place: Part II,28-May-21,Paramount Pictures,PG-13,"$160,215,764.00","$160,215,764 ",Horror
+The Others,10-Aug-01,Miramax,PG-13,"$96,522,687.00","$156,380,393 ",Horror
+The Conjuring,19-Jul-13,Warner Bros.,R,"$137,400,141.00","$154,976,540 ",Horror
+Scream 3,4-Feb-00,Miramax,R,"$89,138,076.00","$151,650,489 ",Horror
+I Know What You Did Last Summer,17-Oct-97,Sony Pictures,R,"$72,250,091.00","$144,265,108 ",Horror
+Split,20-Jan-17,Universal,PG-13,"$138,141,585.00","$141,221,659 ",Horror
+Deep Blue Sea,28-Jul-99,Warner Bros.,R,"$73,648,228.00","$132,943,744 ",Horror
+Paranormal Activity,25-Sep-09,Paramount Pictures,R,"$107,918,810.00","$131,944,856 ",Horror
+Anaconda,11-Apr-97,Sony Pictures,PG-13,"$65,598,907.00","$131,054,889 ",Horror
+Species,7-Jul-95,MGM,R,"$60,054,449.00","$126,597,535 ",Horror
+Freddy vs. Jason,15-Aug-03,New Line,R,"$82,622,655.00","$125,646,716 ",Horror
+My Big Fat Greek Wedding,19-Apr-02,IFC Films,PG,"$241,438,208.00","$380,285,457 ",Romantic Comedy
+There's Something About Mary,15-Jul-98,20th Century Fox,R,"$176,484,651.00","$344,800,904 ",Romantic Comedy
+Jerry Maguire,13-Dec-96,Sony Pictures,R,"$153,952,592.00","$313,973,409 ",Romantic Comedy
+What Women Want,15-Dec-00,Paramount Pictures,PG-13,"$182,805,123.00","$305,565,060 ",Romantic Comedy
+As Good as it Gets,24-Dec-97,Sony Pictures,PG-13,"$148,478,011.00","$292,078,237 ",Romantic Comedy
+Runaway Bride,30-Jul-99,Paramount Pictures,PG,"$152,257,509.00","$274,832,896 ",Romantic Comedy
+Hitch,11-Feb-05,Sony Pictures,PG-13,"$177,784,257.00","$254,334,104 ",Romantic Comedy
+Notting Hill,28-May-99,Universal,PG-13,"$116,089,678.00","$209,555,573 ",Romantic Comedy
+The Proposal,19-Jun-09,Walt Disney,PG-13,"$163,958,031.00","$200,466,021 ",Romantic Comedy
+Knocked Up,1-Jun-07,Universal,R,"$148,761,765.00","$198,276,940 ",Romantic Comedy
+Something's Gotta Give,12-Dec-03,Sony Pictures,PG-13,"$124,685,242.00","$187,696,264 ",Romantic Comedy
+Shakespeare in Love,11-Dec-98,Miramax,R,"$100,317,794.00","$182,509,731 ",Romantic Comedy
+50 First Dates,13-Feb-04,Sony Pictures,PG-13,"$120,776,832.00","$178,345,175 ",Romantic Comedy
+Crazy Rich Asians,15-Aug-18,Warner Bros.,PG-13,"$174,532,921.00","$175,682,345 ",Romantic Comedy
+While You Were Sleeping,21-Apr-95,Walt Disney,PG,"$81,057,016.00","$170,871,909 ",Romantic Comedy
+Enchanted,21-Nov-07,Walt Disney,PG,"$127,706,877.00","$169,774,783 ",Romantic Comedy
+The Break-Up,2-Jun-06,Universal,PG-13,"$118,703,275.00","$166,184,581 ",Romantic Comedy
+How to Lose a Guy in 10 Days,7-Feb-03,Paramount Pictures,PG-13,"$105,807,520.00","$160,904,633 ",Romantic Comedy
+The Wedding Singer,12-Jan-98,New Line,PG-13,"$80,245,725.00","$156,898,352 ",Romantic Comedy
+"Me, Myself & Irene",23-Jun-00,20th Century Fox,R,"$90,570,999.00","$154,088,315 ",Romantic Comedy
+America's Sweethearts,20-Jul-01,Sony Pictures,PG-13,"$93,607,673.00","$151,657,660 ",Romantic Comedy
+Grumpier Old Men,22-Dec-95,Warner Bros.,PG-13,"$71,518,503.00","$149,403,802 ",Romantic Comedy
+Maid in Manhattan,13-Dec-02,Sony Pictures,PG-13,"$93,932,896.00","$147,241,801 ",Romantic Comedy
+Nine Months,12-Jul-95,20th Century Fox,PG-13,"$69,660,733.00","$146,848,022 ",Romantic Comedy
+Two Weeks Notice,20-Dec-02,Warner Bros.,PG-13,"$93,354,918.00","$145,929,922 ",Romantic Comedy
+Beauty and the Beast,17-Mar-17,Walt Disney,PG,"$504,014,165.00","$515,251,938 ",Musical
+Frozen,22-Nov-13,Walt Disney,PG,"$400,953,009.00","$451,641,344 ",Musical
+Moana,23-Nov-16,Walt Disney,PG,"$248,757,044.00","$262,247,200 ",Musical
+Chicago,27-Dec-02,Miramax,PG-13,"$170,687,518.00","$260,101,731 ",Musical
+Tangled,24-Nov-10,Walt Disney,PG,"$200,821,936.00","$233,207,946 ",Musical
+Coco,22-Nov-17,Walt Disney,PG,"$210,460,015.00","$214,666,555 ",Musical
+Mamma Mia!,18-Jul-08,Universal,PG-13,"$144,130,063.00","$184,076,975 ",Musical
+The Greatest Showman,20-Dec-17,20th Century Fox,PG,"$174,340,174.00","$176,258,798 ",Musical
+Mary Poppins Returns,19-Dec-18,Walt Disney,PG,"$171,958,438.00","$172,908,887 ",Musical
+Les MisÃ©rables,25-Dec-12,Universal,PG-13,"$148,809,770.00","$170,338,958 ",Musical
+Hairspray,20-Jul-07,New Line,PG,"$118,871,849.00","$158,438,205 ",Musical
+La La Land,9-Dec-16,Lionsgate,PG-13,"$151,101,803.00","$155,766,847 ",Musical
+Into the Woods,25-Dec-14,Walt Disney,PG,"$128,002,372.00","$142,384,360 ",Musical
+Dreamgirls,15-Dec-06,Paramount Pictures,PG-13,"$103,365,956.00","$140,260,102 ",Musical
+Mamma Mia: Here We Go Again!,20-Jul-18,Universal,PG-13,"$120,634,935.00","$121,429,452 ",Musical
+Fantasia 2000 (Theatrical Release),31-Dec-99,Walt Disney,G,"$69,610,858.00","$118,666,650 ",Musical
+Anastasia,14-Nov-97,20th Century Fox,G,"$58,403,409.00","$116,455,699 ",Musical
+High School Musical 3: Senior Year,24-Oct-08,Walt Disney,G,"$90,559,416.00","$115,640,486 ",Musical
+Evita,25-Dec-96,Walt Disney,PG,"$50,047,179.00","$100,160,361 ",Musical
+Annie,19-Dec-14,Sony Pictures,PG,"$85,911,262.00","$95,424,221 ",Musical
+"South Park: Bigger, Longer & Uncut",30-Jun-99,Paramount Pictures,R,"$52,037,603.00","$93,934,014 ",Musical
+Moulin Rouge,18-May-01,20th Century Fox,PG-13,"$57,386,369.00","$92,960,600 ",Musical
+The Phantom of the Opera,22-Dec-04,Warner Bros.,PG-13,"$51,225,796.00","$74,027,842 ",Musical
+Sweeney Todd: The Demon Barber o…,21-Dec-07,Paramount Pictures,R,"$52,898,073.00","$69,263,899 ",Musical
+Footloose,14-Oct-11,Paramount Pictures,PG-13,"$51,802,742.00","$59,902,456 ",Musical
+Fahrenheit 9/11,23-Jun-04,Lionsgate,R,"$119,114,517.00","$175,890,513 ",Documentary
+Everest,6-Mar-98,MacGillivray Free…,PG-13,"$87,178,599.00","$167,174,052 ",Documentary
+The Living Sea,1-Feb-95,IMAX Films,Not Rated,"$64,800,000.00","$136,601,373 ",Documentary
+Jackass 3D,15-Oct-10,Paramount Pictures,R,"$117,229,692.00","$136,247,236 ",Documentary
+Space Station,19-Apr-02,IMAX Films,Not Rated,"$93,231,060.00","$133,417,503 ",Documentary
+La marche de l'empereur,24-Jun-05,Warner Independent,G,"$77,437,223.00","$110,779,927 ",Documentary
+Jackass: Number Two,22-Sep-06,Paramount Pictures,R,"$72,778,712.00","$101,890,190 ",Documentary
+Jackass: The Movie,25-Oct-02,Paramount Pictures,R,"$64,282,312.00","$101,453,405 ",Documentary
+Dolphins,20-Oct-00,MacGillivray Free…,Not Rated,"$54,000,000.00","$91,870,122 ",Documentary
+Michael Jackson's This Is It,28-Oct-09,Sony Pictures,PG,"$72,091,016.00","$88,143,278 ",Documentary
+Mysteries of Egypt,16-Jul-98,Sony Pictures,Not Rated,"$40,593,286.00","$71,851,746 ",Documentary
+Deep Sea 3D,3-Mar-06,Warner Bros.,G,"$46,406,434.00","$61,610,131 ",Documentary
+Hubble 3D,19-Mar-10,Warner Bros.,G,"$52,509,100.00","$59,245,114 ",Documentary
+Magnificent Desolation,23-Sep-05,IMAX Films,Not Rated,"$34,126,126.00","$45,565,088 ",Documentary
+Under the Sea 3D,13-Feb-09,Warner Bros.,G,"$36,252,198.00","$42,372,397 ",Documentary
+Earth,22-Apr-09,Walt Disney,G,"$32,011,576.00","$39,139,486 ",Documentary
+2016: Obamaâs America,13-Jul-12,Rocky Mountain Pi…,PG,"$33,349,941.00","$38,419,466 ",Documentary
+Thrill Ride: The Science of Fun,11-Jul-97,Sony Pictures Cla…,G,"$18,798,682.00","$35,147,684 ",Documentary
+An Inconvenient Truth,24-May-06,Paramount Vantage,PG,"$24,146,161.00","$33,804,618 ",Documentary
+Bowling for Columbine,11-Oct-02,MGM,R,"$21,576,018.00","$33,734,403 ",Documentary
+Chimpanzee,20-Apr-12,Walt Disney,G,"$28,965,459.00","$33,368,493 ",Documentary
+Sicko,22-Jun-07,Lionsgate,PG-13,"$24,538,513.00","$32,706,125 ",Documentary
+NASCAR: The IMAX Experience,12-Mar-04,Warner Bros.,PG,"$21,550,235.00","$31,730,392 ",Documentary
+Michael Jordan to the MAX,5-May-00,Giant Screen Films,Not Rated,"$18,642,318.00","$31,367,663 ",Documentary
+Sea Monsters: A Prehistoric Adve…,5-Oct-07,National Geograph…,Not Rated,"$23,746,066.00","$30,429,169 ",Documentary
+American Hustle,13-Dec-13,Sony Pictures,R,"$150,098,456.00","$168,955,783 ",Black Comedy
+The Wolf of Wall Street,25-Dec-13,Paramount Pictures,R,"$116,949,183.00","$131,612,508 ",Black Comedy
+The Cable Guy,14-Jun-96,Sony Pictures,PG-13,"$60,240,295.00","$124,978,168 ",Black Comedy
+Three Kings,1-Oct-99,Warner Bros.,R,"$60,652,036.00","$109,335,726 ",Black Comedy
+Dark Shadows,11-May-12,Warner Bros.,PG-13,"$79,727,149.00","$91,846,472 ",Black Comedy
+Bad Santa,26-Nov-03,Miramax/Dimension,R,"$60,060,328.00","$91,196,631 ",Black Comedy
+The Stepford Wives,11-Jun-04,Paramount Pictures,PG-13,"$59,475,623.00","$87,824,712 ",Black Comedy
+The Royal Tenenbaums,14-Dec-01,Walt Disney,R,"$52,353,636.00","$83,496,160 ",Black Comedy
+Mars Attacks!,13-Dec-96,Warner Bros.,PG-13,"$37,771,017.00","$78,056,645 ",Black Comedy
+Burn After Reading,12-Sep-08,Focus Features,R,"$60,355,347.00","$77,083,359 ",Black Comedy
+Striptease,28-Jun-96,Sony Pictures,R,"$33,109,743.00","$68,691,480 ",Black Comedy
+Horrible Bosses 2,26-Nov-14,Warner Bros.,R,"$54,445,357.00","$61,061,572 ",Black Comedy
+The Ladykillers,26-Mar-04,Walt Disney,R,"$39,692,139.00","$58,611,412 ",Black Comedy
+Grosse Pointe Blank,11-Apr-97,Walt Disney,R,"$28,084,357.00","$56,107,525 ",Black Comedy
+Kick-Ass,16-Apr-10,Lionsgate,R,"$48,071,303.00","$55,869,940 ",Black Comedy
+"Three Billboards Outside Ebbing,…",10-Nov-17,Fox Searchlight,R,"$54,513,740.00","$55,252,414 ",Black Comedy
+Gisaengchung,11-Oct-19,Neon,R,"$53,369,745.00","$53,395,773 ",Black Comedy
+Death at a Funeral,16-Apr-10,Sony Pictures,R,"$42,739,347.00","$49,672,982 ",Black Comedy
+BlacKkKlansman,10-Aug-18,Focus Features,R,"$49,275,340.00","$49,595,771 ",Black Comedy
+Snatch,8-Dec-00,Sony Pictures,R,"$30,093,107.00","$48,759,953 ",Black Comedy
+Vice,25-Dec-18,Annapurna Pictures,R,"$47,836,282.00","$48,051,836 ",Black Comedy
+Birdman or (The Unexpected Virtu…,17-Oct-14,Fox Searchlight,R,"$42,340,598.00","$46,897,590 ",Black Comedy
+War Dogs,19-Aug-16,Warner Bros.,R,"$43,034,523.00","$45,621,566 ",Black Comedy
+The Players Club,8-Apr-98,New Line,R,"$23,047,939.00","$45,063,874 ",Black Comedy
+To Die For,27-Sep-95,Sony Pictures,R,"$21,284,514.00","$44,864,408 ",Black Comedy
+True Grit,22-Dec-10,Paramount Pictures,PG-13,"$171,243,005.00","$198,528,070 ",Western
+Django Unchained,25-Dec-12,Weinstein Co.,R,"$162,805,434.00","$186,191,862 ",Western
+The Lone Ranger,2-Jul-13,Walt Disney,PG-13,"$89,302,115.00","$100,725,747 ",Western
+Hidalgo,5-Mar-04,Walt Disney,PG-13,"$67,286,731.00","$99,358,986 ",Western
+The Magnificent Seven,23-Sep-16,Sony Pictures,PG-13,"$93,432,655.00","$99,048,948 ",Western
+Shanghai Noon,26-May-00,Walt Disney,PG-13,"$56,932,305.00","$96,858,849 ",Western
+Shanghai Knights,7-Feb-03,Walt Disney,PG-13,"$60,470,220.00","$91,958,851 ",Western
+Open Range,15-Aug-03,Walt Disney,R,"$58,331,254.00","$88,706,068 ",Western
+3:10 to Yuma,7-Sep-07,Lionsgate,R,"$53,606,916.00","$71,449,907 ",Western
+The Hateful Eight,25-Dec-15,Weinstein Co.,R,"$54,117,416.00","$58,174,297 ",Western
+Desperado,25-Aug-95,Sony Pictures,R,"$25,532,388.00","$53,823,443 ",Western
+The Dark Tower,4-Aug-17,Sony Pictures,PG-13,"$50,701,325.00","$51,831,793 ",Western
+A Million Ways to Die in The West,30-May-14,Universal,R,"$42,720,965.00","$47,949,967 ",Western
+The Missing,26-Nov-03,Sony Pictures,R,"$26,900,336.00","$40,873,817 ",Western
+The Quick and the Dead,10-Feb-95,Sony Pictures,R,"$18,552,460.00","$39,109,436 ",Western
+The Alamo,9-Apr-04,Walt Disney,PG-13,"$22,406,362.00","$33,086,360 ",Western
+Hostiles,22-Dec-17,Entertainment Stu…,R,"$29,819,114.00","$30,016,849 ",Western
+Hell or High Water,12-Aug-16,Lionsgate,R,"$27,007,844.00","$28,631,436 ",Western
+Appaloosa,19-Sep-08,Warner Bros.,R,"$20,211,394.00","$25,806,031 ",Western
+All the Pretty Horses,22-Dec-00,Miramax,PG-13,"$15,527,125.00","$25,776,219 ",Western
+American Outlaws,17-Aug-01,Warner Bros.,PG-13,"$13,264,986.00","$21,491,151 ",Western
+Tall Tale,24-Mar-95,Walt Disney,PG,"$8,247,627.00","$17,386,375 ",Western
+Last of the Dogmen,8-Sep-95,Savoy,PG,"$7,008,542.00","$14,774,328 ",Western
+News of the World,25-Dec-20,Universal,PG-13,"$12,668,325.00","$12,668,327 ",Western
+The Beguiled,23-Jun-17,Focus Features,R,"$10,576,669.00","$10,812,485 ",Western
+Justin Bieber: Never Say Never,11-Feb-11,Paramount Pictures,G,"$73,013,910.00","$84,430,969 ",Concert
+Hannah Montana and Miley Cyrus: …,1-Feb-08,Walt Disney,G,"$65,281,781.00","$83,375,199 ",Concert
+The Original Kings of Comedy,18-Aug-00,Paramount Pictures,R,"$38,168,022.00","$64,935,200 ",Concert
+Kevin Hart: Let Me Explain,3-Jul-13,Lionsgate,R,"$32,244,051.00","$36,368,743 ",Concert
+One Direction: This is Us,30-Aug-13,Sony Pictures,PG,"$28,873,374.00","$32,566,888 ",Concert
+Martin Lawrence Live: RunTelDat,2-Aug-02,Paramount Pictures,R,"$19,184,820.00","$30,279,652 ",Concert
+Katy Perry: Part of Me,5-Jul-12,Paramount Pictures,PG,"$25,326,071.00","$29,175,886 ",Concert
+Kevin Hart: What Now?,14-Oct-16,Universal,R,"$23,591,043.00","$25,009,231 ",Concert
+Jonas Brothers: The 3D Concert E…,27-Feb-09,Walt Disney,G,"$19,162,740.00","$23,429,643 ",Concert
+U2 3D,23-Jan-08,National Geograph…,G,"$12,898,847.00","$16,132,543 ",Concert
+Glee: The 3D Concert Movie,12-Aug-11,20th Century Fox,PG,"$11,862,398.00","$13,717,302 ",Concert
+Christmas with the Chosen: The M…,1-Dec-21,Fathom Events,Not Rated,"$13,388,000.00","$13,388,000 ",Concert
+Kevin Hart: Laugh at My Pain,9-Sep-11,Codeblack Enterta…,R,"$7,706,436.00","$8,911,470 ",Concert
+BTS Permission to Dance on Stage…,12-Mar-22,Trafalgar Releasing,Not Rated,"$6,840,000.00","$6,840,000 ",Concert
+Metallica Through the Never,27-Sep-13,Picturehouse,R,"$3,419,967.00","$3,857,452 ",Concert
+The Met: Live in HD - Aida,15-Dec-12,NCM Fathom,Not Rated,"$2,800,000.00","$3,225,621 ",Concert
+The Fluffy Movie,25-Jul-14,Open Road,PG-13,"$2,827,393.00","$3,173,462 ",Concert
+N'sync: Bigger than Live,9-Feb-01,Really Big Film C…,Not Rated,"$1,808,679.00","$2,925,285 ",Concert
+Mayweather vs. McGregor,26-Aug-17,Fathom Events,Not Rated,"$2,620,183.00","$2,678,603 ",Concert
+Neil Young: Heart of Gold,10-Feb-06,Paramount Vantage,PG,"$1,828,069.00","$2,559,292 ",Concert
+George Balanchine's The Nutcracker,13-Dec-11,NCM Fathom,G,"$2,119,994.00","$2,119,994 ",Concert
+I'm the One That I Want,4-Aug-00,Cho Taussig Prods.,Not Rated,"$1,210,967.00","$2,017,088 ",Concert
+Sarah Silverman: Jesus is Magic,11-Nov-05,IDP/Goldwyn/Roadside,Not Rated,"$1,324,244.00","$1,889,075 ",Concert
+The Met: Live in HD - Manon Lescaut,5-Mar-16,Not Rated,Not Rated,"$1,876,402.00","$1,770,000 ",Concert
+The Met: Live in HD - Madama But…,2-Apr-16,Fathom Events,Not Rated,"$1,700,900.00","$1,803,143 ",Concert
+Grindhouse,6-Apr-07,Weinstein/Dimension,R,"$25,031,037.00","$33,362,587 ",Multiple Genre
+2019 Oscar Shorts,8-Feb-19,ShortsHD,Not Rated,"$3,531,093.00","$3,534,943 ",Multiple Genre
+2018 Oscar Shorts,9-Feb-18,ShortsHD,Not Rated,"$3,508,777.00","$3,531,881 ",Multiple Genre
+2020 Oscar Shorts,29-Jan-20,ShortsHD,Not Rated,"$3,304,748.00","$3,304,748 ",Multiple Genre
+Saving Christmas,14-Nov-14,Samuel Goldwyn Films,PG,"$2,778,297.00","$3,118,350 ",Multiple Genre
+2016 Oscar Shorts,29-Jan-16,ShortsHD,Not Rated,"$2,816,816.00","$2,986,146 ",Multiple Genre
+2017 Oscar Shorts,10-Feb-17,ShortsHD,Not Rated,"$2,835,355.00","$2,898,573 ",Multiple Genre
+2014 Oscar Shorts,31-Jan-14,ShortsHD,Not Rated,"$2,357,890.00","$2,646,490 ",Multiple Genre
+2015 Oscar Shorts,30-Jan-15,ShortsHD,Not Rated,"$2,412,493.00","$2,624,261 ",Multiple Genre
+2013 Oscar Shorts,1-Feb-13,Shorts International,Not Rated,"$2,142,342.00","$2,416,387 ",Multiple Genre
+2012 Oscar Shorts,10-Feb-12,Shorts International,Not Rated,"$1,702,415.00","$1,961,197 ",Multiple Genre
+2022 Oscar Shorts,25-Feb-22,ShortsHD,Not Rated,"$1,801,646.00","$1,801,646 ",Multiple Genre
+The Stray,6-Oct-17,Purdie Distribution,PG,"$1,579,440.00","$1,614,654 ",Multiple Genre
+2011 Oscar Shorts,11-Feb-11,Shorts International,Not Rated,"$1,352,152.00","$1,563,577 ",Multiple Genre
+Andhadhun,5-Oct-18,Eros Entertainment,Not Rated,"$1,193,049.00","$1,200,903 ",Multiple Genre
+2010 Oscar Shorts,19-Feb-10,Shorts International,Not Rated,"$1,018,169.00","$1,183,343 ",Multiple Genre
+Kurosawa & Mifune Festival,26-Jul-02,Cowboy Pictures,Not Rated,"$583,712.00","$910,223 ",Multiple Genre
+Viva Pedro,11-Aug-06,Sony Pictures Cla…,Not Rated,"$579,539.00","$811,352 ",Multiple Genre
+2009 Oscar Shorts,6-Feb-09,Shorts International,Not Rated,"$644,635.00","$788,171 ",Multiple Genre
+A Collection of 2007 Academy Awa…,15-Feb-08,Magnolia Pictures,PG-13,"$508,695.00","$649,676 ",Multiple Genre
+The Animation Show,5-Sep-03,The Animation Sho…,R,"$343,071.00","$520,095 ",Multiple Genre
+2006 Academy Award Nominated Sho…,16-Feb-07,Magnolia Pictures,Not Rated,"$335,090.00","$446,616 ",Multiple Genre
+2021 Oscar Shorts,2-Apr-21,ShortsHD,Not Rated,"$443,050.00","$443,050 ",Multiple Genre
+Chico & Rita,10-Feb-12,GKIDS,Not Rated,"$197,785.00","$227,847 ",Multiple Genre
+The 2005 Academy Award Nominated…,24-Feb-06,Magnolia Pictures,Not Rated,"$157,415.00","$220,373 ",Multiple Genre
+jackass forever,4-Feb-22,Paramount Pictures,R,"$57,743,451.00","$57,743,451 ",Reality
+Benpao Ba! Xiongdi,30-Jan-15,China Lion Film D…,Not Rated,"$309,297.00","$336,447 ",Reality
+Pyaar Ka Punchnama 2,16-Oct-15,Reliance Entertai…,Not Rated,"$222,856.00","$242,418 ",Reality
+The Principle,24-Oct-14,Rocky Mountain Pi…,PG,"$89,543.00","$97,972 ",Reality
+Holy Ghost,5-Sep-14,Not Available,Not Rated,$0.00,$0 ,Reality
+"St. Patrick""s Day",18-Dec-20,Self Distributed,Not Rated,$260.00,$260 ,Educational
